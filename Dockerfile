@@ -1,4 +1,4 @@
-FROM arthurpicht/debian-10:latest
+FROM arthurpicht/debian-11:latest
 
 ENV DOCKER_NAME="adoptopenjdk-11"
 ENV JAVA_HOME /man/java
